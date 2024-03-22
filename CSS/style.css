@@ -1,0 +1,28 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px; /*1 rem = 10px */
+}
+
+header{
+    background-color: gray;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.titulo span{
+    color: red;
+    font-size: 2rem;
+}
+
+img{
+    width: 18rem;
+    height: 18rem;
+    display: block;
+    margin: auto;
+}
+
